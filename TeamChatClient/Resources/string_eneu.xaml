@@ -1,0 +1,26 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="close">Close</system:String>
+    <system:String x:Key="mini">Minimize</system:String>
+    <system:String x:Key="onlineUsers">Who is online:</system:String>
+    <system:String x:Key="userName">Username</system:String>
+    <system:String x:Key="passWord">Password</system:String>
+    <system:String x:Key="signIn">Sign In</system:String>
+    <system:String x:Key="whisper">Whisper</system:String>
+    <system:String x:Key="whisperGet">whispers</system:String>
+    <system:String x:Key="whisperTo">You whisper to</system:String>
+    <system:String x:Key="enter">has entered the chat.</system:String>
+    <system:String x:Key="leave">left the chat.</system:String>
+    <system:String x:Key="poke">shakes you awake!</system:String>
+    <system:String x:Key="loggedAlready">You are already logged in!</system:String>
+    <system:String x:Key="wrongPW">Wrong username or password.</system:String>
+    <system:String x:Key="noCon">Connection refused. Please check your internet- and firewall settings.</system:String>
+    <system:String x:Key="loggedOut">Successfully logged out!</system:String>
+    <system:String x:Key="uMad">U mad bro?</system:String>
+    <system:String x:Key="uPoke">Shake</system:String>
+    <system:String x:Key="notUwhisp">You can not whisper yourself.</system:String>
+    <system:String x:Key="notUpoke">You can not shake yourself.</system:String>
+    <system:String x:Key="notOnline">This user is not online.</system:String>
+    <system:String x:Key="logOutBtn">LogOut</system:String>
+</ResourceDictionary>

@@ -1,0 +1,28 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="close">Schließen</system:String>
+    <system:String x:Key="mini">Minimieren</system:String>
+    <system:String x:Key="onlineUsers">Wer ist online:</system:String>
+    <system:String x:Key="userName">Benutzername</system:String>
+    <system:String x:Key="passWord">Passwort</system:String>
+    <system:String x:Key="signIn">Einloggen</system:String>
+    <system:String x:Key="whisper">Flüstern</system:String>
+    <system:String x:Key="whisperGet">flüstert</system:String>
+    <system:String x:Key="whisperTo">Du flüsterst zu</system:String>
+    <system:String x:Key="enter">ist dem Chat beigetreten.</system:String>
+    <system:String x:Key="leave">hat den Chat verlassen.</system:String>
+    <system:String x:Key="poke"> rüttelt dich wach!</system:String>
+    <system:String x:Key="loggedAlready">Du bist bereits eingeloggt!</system:String>
+    <system:String x:Key="wrongPW">Benutzername oder Passwort falsch.</system:String>
+    <system:String x:Key="noCon">Verbindung konnte nicht hergestellt werden. Bitte die Internet- und Firewall Einstellungen überprüfen.</system:String>
+    <system:String x:Key="loggedOut">Erfolgreich ausgeloggt!</system:String>
+    <system:String x:Key="uMad">Macke?</system:String>
+    <system:String x:Key="uPoke">Wachrütteln</system:String>
+    <system:String x:Key="notUwhisp">Du kannst Dir nicht selber zuflüstern.</system:String>
+    <system:String x:Key="notUpoke">Du kannst Dich nicht selber wachrütteln.</system:String>
+    <system:String x:Key="notOnline">Dieser Benutzer ist nicht online.</system:String>
+    <system:String x:Key="logOutBtn">Ausloggen</system:String>
+
+
+</ResourceDictionary>
